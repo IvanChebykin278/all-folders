@@ -1,0 +1,48 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+#	172.16.41.25 	sap-bi-dev.aeroflot.ru
+#	10.16.41.18 	svo-erp-pp1.msk.aeroflot.ru
+#	10.16.41.17 	svo-erp-tst01.msk.aeroflot.ru
+#	172.16.41.177 	mlk-erp-tst02.msk.aeroflot.ru
+#	10.16.41.14 	svo-erp-tst01.msk.aeroflot.ru
+#	172.16.41.125 	mlk-sap-smp.msk.aeroflot.ru
+#	172.16.41.176 	erp-pp1.msk.aeroflot.ru
+#	172.16.170.182 	mlk-opsbi-bwp mlk-opsbi-bwp.msk.aeroflot.ru
+#	172.16.170.183 	mlk-opsbi-bpp mlk-opsbi-bpp.msk.aeroflot.ru
+#	172.16.170.184 	mlk-opsbi-dsp mlk-opsbi-dsp.msk.aeroflot.ru
+#	172.16.160.16 	mlk-opsbi-bw mlk-opsbi-bw.msk.aeroflot.ru
+#	172.16.160.28 	mlk-opsbi-bp mlk-opsbi-bp.msk.aeroflot.ru
+#	172.16.160.29 	mlk-opsbi-ds mlk-opsbi-ds.msk.aeroflot.ru
+#	10.16.160.57 	svo-opsbi-bw svo-opsbi-bw.msk.aeroflot.ru
+#	10.16.160.58 	svo-opsbi-bp svo-opsbi-bp.msk.aeroflot.ru
+#	10.16.160.59 	svo-opsbi-ds svo-opsbi-ds.msk.aeroflot.ru
+#	172.16.41.28 	mlk-tms-01.msk.aeroflot.ru
+#	172.16.41.29 	mlk-tst-sapbi.msk.aeroflot.ru
+#	10.16.41.12 	erp-ci.msk.aeroflot.ru
+#	172.16.41.59 	mlk-grc-t01 grd-ci.msk.aeroflot.ru
+#	172.16.41.59 	mlk-grc-t01 grq-ci.msk.aeroflot.ru
+#	172.16.41.59 	mlk-grq-ci.msk.aeroflot.ru
+#	172.16.41.9 	mlk-grc-p01 grp-ci.msk.aeroflot.ru
+#	172.16.41.9 	mlk-grp-ci.msk.aeroflot.ru
+#	172.16.170.38 	mlk-tst-ots03 mlk-tst-ots03.msk.aeroflot.ru
+#	172.16.170.183 	mlk-opsbi-bpp mlk-opsbi-bpp.msk.aeroflot.ru
+#	172.16.160.28 	mlk-opsbi-bp mlk-opsbi-bp.msk.aeroflot.ru

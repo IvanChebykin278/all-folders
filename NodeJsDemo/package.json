@@ -1,0 +1,18 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "Test App from Chebykin Ivan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "\"Chebykin Ivan\"",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
